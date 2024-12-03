@@ -11,10 +11,10 @@
   <h4>💬 Ask me about Data Analytics and Business Intelligence</h4>
 </div>
 <div align="center">
-  <h4>🌟 Currently exploring machine learning and advanced analytics</h4>
+  <h4>🌟 Currently exploring Machine Learning and Advanced Analytics</h4>
 </div>
 <div align="center">
-  <h4>📫 Reach me fahadabid545@gmail.com</h4>
+  <h4>📫 Reach me at "fahadabid545@gmail.com"</h4>
 </div>
   
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
@@ -23,7 +23,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 20px;">
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" width="150" />
-  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black" alt="CSS" width="135" />
+  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black" alt="CSS" width="130" />
   <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black" alt="Java" width="100" />
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" alt="Python" width="155" />
   <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=database&logoColor=black" alt="SQL" width="90" />
@@ -40,7 +40,6 @@
 </div>
 
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
-
 <h1 align="center">Connect with Me:</h1>
 <table align="center">
   <tr>
@@ -61,3 +60,4 @@
     </td>
   </tr>
 </table>
+
