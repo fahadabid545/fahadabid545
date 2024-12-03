@@ -5,7 +5,7 @@
   <h1>Hi 👋 I am Fahad </h1>
 
 <div align="center">
-  <h4>📊 Skilled in Python, SQL, Power BI, and data visualization</h4>
+  <h4>📊 Skilled in Python, SQL, Power BI, and Data Visualization</h4>
 </div>
 <div align="center">
   <h4>💬 Ask me about Data Analytics and Business Intelligence</h4>
