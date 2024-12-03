@@ -1,9 +1,5 @@
 <div align="center">
   <h1>Hi I am Fahad Abid 👋</h1>
-</div>
-<div align="center">
-  <h2>Welcome to My GitHub Profile</h2>
-</div>
 <div align="center">
   <h4>🔍 Passionate about turning raw data into actionable insights</h4>
 </div>
