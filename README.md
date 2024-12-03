@@ -1,18 +1,19 @@
-## Hi I am Fahad Abid 👋
-
 <div align="center">
-  <h1>Welcome to My GitHub Profile</h1>
+  <h1>Hi I am Fahad Abid 👋</h1>
 </div>
 <div align="center">
-  🔍 Passionate about turning raw data into actionable insights
+  <h2>Welcome to My GitHub Profile</h2>
 </div>
 <div align="center">
-  📊 Skilled in Python, SQL, Power BI, and data visualization
+  <h4>🔍 Passionate about turning raw data into actionable insights</h4>
 </div>
 <div align="center">
-  🌟 Currently exploring machine learning and advanced analytics
+  <h4>📊 Skilled in Python, SQL, Power BI, and data visualization</h4>
 </div>
 <div align="center">
-  💻 Open to collaborations and innovative projects
+  <h4>🌟 Currently exploring machine learning and advanced analytics</h4>
+</div>
+<div align="center">
+  <h4>💻 Open to collaborations and innovative projects</h4>
 </div>
 
