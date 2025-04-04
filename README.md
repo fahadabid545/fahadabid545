@@ -1,42 +1,15 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1ab6f641-c757-44a2-b724-f9ac3ba1a6ed" width="150" height="150" />
 </div>
-<div align="center">
-  <h1>Hi 👋 I am Fahad </h1>
 
 <div align="center">
-  <h4>📊 Data Analytics & Business Intelligence Enthusiast</h4>
+  <h1>Hi 👋 I am Fahad</h1>
 </div>
-<div align="center">
-  <h4>💻 Proficient in Python, SQL, Power BI, and Data Visualization</h4>
-</div>
-<div align="center">
-  <h4>🌟 Currently exploring Machine Learning and Advanced Analytics</h4>
-</div>
-<div align="center">
-  <h4>📫 Reach me at "fahadabid545@gmail.com"</h4>
-</div>
-  
-<hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
 
-## Tech Stack
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 20px;">
-  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" width="150" />
-  <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black" alt="CSS" width="130" />
-  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black" alt="Java" width="100" />
-  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" alt="Python" width="155" />
-  <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=database&logoColor=black" alt="SQL" width="90" />
-  <img src="https://img.shields.io/badge/Power_BI-white?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" width="160" />
-  <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=black" alt="Tableau" width="170" />
-  <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" width="155" />
-  <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=black" alt="SQLite" width="155" />
-  <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=black" alt="Jupyter" width="160" />
-  <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas" width="150" />
-  <img src="https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=black" alt="NumPy" width="150" />
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black" alt="Matplotlib" width="180" />
-  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git" width="110" />
-  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" width="150" />
+<div align="center">
+  <h3>🎯 Aspiring Data Scientist | Machine Learning & NLP Enthusiast</h3>
+  <h3>📊 Passionate about Data Analytics & Business Intelligence</h3>
+  <h3>💡 Currently exploring <strong>ML Ops</strong>, <strong>Deep Learning</strong>, and <strong>Natural Language Processing</strong></h3>
 </div>
 
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
@@ -44,20 +17,77 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50"/>
-      <br />
-      <span style="color: black; font-weight: bold; font-size: 24px;">LinkedIn</span>
+      <a href="https://linkedin.com/in/m-fahad-5a7a03339" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50"/>
+        <br />
+        <span style="color: black; font-weight: bold; font-size: 24px;">LinkedIn</span>
+      </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50"/>
-      <br />
-      <span style="color: black; font-weight: bold; font-size: 24px;">Kaggle</span>
+      <a href="https://www.kaggle.com/yourusername" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50"/>
+        <br />
+        <span style="color: black; font-weight: bold; font-size: 24px;">Kaggle</span>
+      </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50"/>
-      <br />
-      <span style="color: black; font-weight: bold; font-size: 24px;">Instagram</span>
+      <a href="https://instagram.com/stop.it.fahad" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50"/>
+        <br />
+        <span style="color: black; font-weight: bold; font-size: 24px;">Instagram</span>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="mailto:fahadabid545@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50"/>
+        <br />
+        <span style="color: black; font-weight: bold; font-size: 24px;">Email</span>
+      </a>
     </td>
   </tr>
 </table>
 
+<hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
+
+<div align="center">
+  <h1>Tech Stack</h1>
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+
+</div>
+
+---
+
+<div align="center">
+  <h1>Git Stats</h1>
+</div>
+
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=fahadabid545&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadabid545&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=fahadabid545&icon=0&color=0)](https://visitcount.itsvg.in)
