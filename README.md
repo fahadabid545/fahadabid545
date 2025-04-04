@@ -10,6 +10,7 @@
   <h3>🎯 Aspiring Data Scientist | Machine Learning & NLP Enthusiast</h3>
   <h3>📊 Passionate about Data Analytics & Business Intelligence</h3>
   <h3>💡 Currently exploring <strong>ML Ops</strong>, <strong>Deep Learning</strong>, and <strong>Natural Language Processing</strong></h3>
+    <h3>📫 Mail me at: <a href="mailto:fahadabid545@gmail.com">fahadabid545@gmail.com</a></h3>
 </div>
 
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
@@ -36,13 +37,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50"/>
         <br />
         <span style="font-weight: bold; font-size: 20px;">Instagram</span>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="mailto:fahadabid545@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50"/>
-        <br />
-        <span style="font-weight: bold; font-size: 20px;">Email</span>
       </a>
     </td>
   </tr>
