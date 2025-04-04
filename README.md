@@ -13,39 +13,41 @@
 </div>
 
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
-<h1 align="center">Connect with Me:</h1>
+<h1 align="center">🌐 Connect with Me:</h1>
+
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://linkedin.com/in/m-fahad-5a7a03339" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50"/>
         <br />
-        <span style="color: black; font-weight: bold; font-size: 24px;">LinkedIn</span>
+        <span style="font-weight: bold; font-size: 20px;">LinkedIn</span>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.kaggle.com/yourusername" target="_blank">
+      <a href="https://www.kaggle.com/fahadabid545" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50"/>
         <br />
-        <span style="color: black; font-weight: bold; font-size: 24px;">Kaggle</span>
+        <span style="font-weight: bold; font-size: 20px;">Kaggle</span>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://instagram.com/stop.it.fahad" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50"/>
         <br />
-        <span style="color: black; font-weight: bold; font-size: 24px;">Instagram</span>
+        <span style="font-weight: bold; font-size: 20px;">Instagram</span>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="mailto:fahadabid545@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50"/>
         <br />
-        <span style="color: black; font-weight: bold; font-size: 24px;">Email</span>
+        <span style="font-weight: bold; font-size: 20px;">Email</span>
       </a>
     </td>
   </tr>
 </table>
+
 
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;" />
 
