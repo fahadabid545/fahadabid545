@@ -95,15 +95,6 @@ I'm an ***AI Engineer***, working across the full spectrum of applied machine le
   
 ---
 
-## My Education
-
-| Degree | Institution | Status |
-|---|---|---|
-| MS Data Science | NED University of Engineering & Technology | In Progress |
-| BSc Computer Science | University of Information Technology (UIT) | Completed |
-
----
-
 ## Open for New Opportunity
 
 I'm currently **open to better opportunities**, particularly positions involving LLMs, Generative AI, NLP, or intelligent agent systems. If you're building something meaningful in this space, I'd love to connect.
