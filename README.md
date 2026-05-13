@@ -108,7 +108,7 @@ I'm currently **open to better opportunities**, particularly positions involving
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://linkedin.com/in/m-fahad-5a7a03339" target="_blank">
+      <a href="www.linkedin.com/in/fahadabid545" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50"/>
         <br />
         <strong>LinkedIn</strong>
